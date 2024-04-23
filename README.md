@@ -31,9 +31,9 @@ Few of the charts created for visualization in Python/R
 
 •	Pie chart showing Total No. of crimes vs Ward(R)
  
-[!chicago-crimes-eda](cc.png)
-[!chicago-crimes-eda](cc0.png)
-[!chicago-crimes-eda](cc1.png)
+[!chicago-crimes-eda](images/cc.png)
+[!chicago-crimes-eda](images/cc0.png)
+[!chicago-crimes-eda](images/cc1.png)
 
  
 
